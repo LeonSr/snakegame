@@ -22,7 +22,7 @@ INITIAL_MOVE_DELAY = 150   # ms between logical moves at start
 MIN_MOVE_DELAY = 60        # fastest logical move cap (ms)
 SPEEDUP_PER_POINT = 6      # ms faster per point
 
-HIGH_SCORE_FILE = "highscore.txt"
+HIGH_SCORE_FILE = "highscore.txt" # file name to save high score
 
 # ----------------------------
 # High score persistence
